@@ -6,7 +6,7 @@
 
 ---
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Williamm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/longg18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Long18&icon=6&color=4)](https://visitcount.itsvg.in)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Williamm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/longg18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://komarev.com/ghpvc/?username=long18&abbreviated=true&color=red)](https://github.com/Long18)
 
 
 ---
